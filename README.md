@@ -17,7 +17,7 @@ We decided to try to achieve this goal through the implementation of 2 different
 - A "simple" RNN architecture, more preciselly a BLSTM (Bidirectional Long Short-Term Memory)
 - A more advanced trasformer based architecture(BERT).
 
-##Achieved results
+## Achieved results
 
 ![image](https://user-images.githubusercontent.com/109806659/210773695-7c5305af-554a-4be7-b623-809c7d443324.png)
 
